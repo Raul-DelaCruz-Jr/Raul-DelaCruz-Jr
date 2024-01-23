@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **Raul-DelaCruz-Jr/Raul-DelaCruz-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hello there, my name is Raul DelaCruz Junior and im going to show you how great I AM
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
