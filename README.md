@@ -1,18 +1,25 @@
-### Hi there 👋
+### Hi there 👋  
 
+I'm **Raúl DelaCruz Junior**, a software developer passionate about building scalable and innovative applications. I have experience in **frontend development with React**, as well as working with **APIs and backend integration**. Additionally, I enjoy exploring **Machine Learning and Natural Language Processing**, applying AI techniques to solve real-world problems.  
 
-**Raul-DelaCruz-Jr/Raul-DelaCruz-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **What I work on:**  
+- Frontend development with **React**  
+- API integration and state management  
+- AI & Machine Learning projects (NLP, Computer Vision)  
+- Mobile app development (iOS & Swift)  
 
-Hello there, my name is Raul DelaCruz Junior and im going to show you how great I AM
+🏢 **Currently working at Badak**  
+- Developing a life insurance quotation system using **React and APIs**  
+- Managing repositories and collaborating in an **agile environment**  
 
-Here are some ideas to get you started:
+🚀 **Current Goals:**  
+- Expanding my knowledge in **GenAI and Large Language Models (LLMs)**  
+- Improving my skills in **iOS development**  
+- Contributing to AI-driven applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 **Let's connect!**  
+- **LinkedIn:** [RaulDelaCruzJr](https://www.linkedin.com/in/raul-delacruz-jr/)  
+- **Email:** raul23jrr23@gmail.com  
+
+I love collaborating on projects and discussing new tech ideas, so feel free to reach out!  
 
