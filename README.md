@@ -9,13 +9,11 @@ I'm **Raúl DelaCruz Junior**, a software developer passionate about building sc
 - Mobile app development (iOS & Swift)  
 
 🏢 **Currently working at Badak**  
-- Developing a life insurance quotation system using **React and APIs**  
-- Managing repositories and collaborating in an **agile environment**  
 
 🚀 **Current Goals:**  
-- Expanding my knowledge in **GenAI and Large Language Models (LLMs)**  
+ 
 - Improving my skills in **iOS development**  
-- Contributing to AI-driven applications  
+- Improving my skills in **AI & Machine Learning**   
 
 📫 **Let's connect!**  
 - **LinkedIn:** [RaulDelaCruzJr](https://www.linkedin.com/in/raul-delacruz-jr/)  
